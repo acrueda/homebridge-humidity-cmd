@@ -15,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kgws/homebridge-humidity-cmd"
+    "url": "https://github.com/acrueda/homebridge-humidity-cmd"
   }
 }
