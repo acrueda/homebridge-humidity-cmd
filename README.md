@@ -18,6 +18,6 @@ Configuration sample:
     {
         "accessory": "HumidityCMD",
         "name": "Living Room Humidity",
-        "command": "sudo /usr/local/bin/temper | cut -d ',' -f 2"
+        "command": "sudo /usr/local/bin/humidity | cut -d ',' -f 2"
     }
 ]
